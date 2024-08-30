@@ -1,0 +1,3 @@
+[submodule "libepmath"]
+	path = libepmath
+	url = https://github.com/emilijapet/libepmath.git
